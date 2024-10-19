@@ -7,7 +7,6 @@ librosa
 pyttsx3
 SpeechRecognition == 3.10.4
 cryptography
-base64
 io
 os
 tempfile
